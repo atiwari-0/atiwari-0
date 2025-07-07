@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @atiwari-0
-- 👀 I’m interested in software development and space
-- 🌱 I’m currently learning Machine learning
-  
+### 👋 Hi, I’m @atiwari-0  
+- 👀 I'm passionate about **software development** and **space exploration**  
+- 🌱 Currently diving deep into **Machine Learning** and **Fullstack Development**  
+- 🚀 Always looking to learn, build, and explore new tech frontiers  
 
-<!---
-atiwari-0/atiwari-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atiwari-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
